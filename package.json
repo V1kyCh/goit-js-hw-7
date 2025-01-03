@@ -17,5 +17,8 @@
     "parcel": "^2.13.3",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
     "parcel-transformer-hbs": "^1.0.4"
+  },
+  "devDependencies": {
+    "posthtml-include": "^2.0.1"
   }
 }

@@ -13,10 +13,10 @@
   "license": "ISC",
   "dependencies": {
     "gh-pages": "^6.2.0",
-    "handlebars": "^4.7.8",
     "parcel": "^2.13.3",
     "parcel-plugin-handlebars-precompile": "^1.0.2",
-    "parcel-transformer-hbs": "^1.0.4"
+    "parcel-transformer-hbs": "^1.0.4",
+    "parsel-js": "^1.2.1"
   },
   "devDependencies": {
     "posthtml-include": "^2.0.1"
